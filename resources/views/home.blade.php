@@ -27,9 +27,9 @@
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
                 </a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">RPA Frost</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Home</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Product</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">RPA Frost</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Home</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Product</a>
             </div>
         </nav>
     </div>

@@ -27,9 +27,9 @@
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
                 </a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">RPA Frost</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Home</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Product</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">RPA Frost</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Home</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Product</a>
             </div>
         </nav>
     </div>
@@ -93,10 +93,10 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/136.png" class="card-img-top" alt="Nugget">
+                    <img src="img/137.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">ENOKI MUSHROOM ASTRO 100GR</p>
-                        <h4 class="card-title">Rp4,000</h4 >
+                        <p style="margin-bottom:5px">FF HOME SHOESTRING 2KG </p>
+                        <h4 class="card-title">Rp63,000</h4 >
                     </div>
                 </div>
             </div>
@@ -109,31 +109,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/138.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">FF HOME SHOESTRING 2KG </p>
-                        <h4 class="card-title">Rp63,000</h4 >
-                    </div>
-                </div>
-            </div>
+           
         </div>
     </div>
-    <div class="container my-4">
-        <div class="row justify-content-center gx-4">
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/139.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">KARAWACI RAJA BASO BAKAR</p>
-                        <h4 class="card-title">Rp15,000</h4 >
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
+ 
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>

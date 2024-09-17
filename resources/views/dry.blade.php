@@ -27,9 +27,9 @@
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
                 </a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">RPA Frost</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Home</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Product</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">RPA Frost</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Home</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Product</a>
             </div>
         </nav>
     </div>
@@ -42,10 +42,10 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/178.png" class="card-img-top" alt="Nugget">
+                    <img src="img/183.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">MIEDORO </p>
-                        <h4 class="card-title">Rp35,000</h4 >
+                        <p style="margin-bottom:5px">SAOS SAMBAL EXTRA GOURMATE 500 GR </p>
+                        <h4 class="card-title">Rp8,000</h4 >
                     </div>
                 </div>
             </div>
@@ -91,15 +91,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/183.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">SAOS SAMBAL EXTRA GOURMATE 500 GR </p>
-                        <h4 class="card-title">Rp8,000</h4 >
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
 

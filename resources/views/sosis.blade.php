@@ -27,9 +27,9 @@
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
                 </a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">RPA Frost</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Home</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Product</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">RPA Frost</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Home</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Product</a>
             </div>
         </nav>
     </div>
@@ -233,10 +233,10 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/159.png" class="card-img-top" alt="Nugget">
+                    <img src="img/171.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">ZONA SOSIS AYAM COKLAT 40 </p>
-                        <h4 class="card-title">Rp32,000</h4 >
+                        <p style="margin-bottom:5px">ZONA SOSIS AYAM 15 </p>
+                        <h4 class="card-title">Rp17.500</h4 >
                     </div>
                 </div>
             </div>
@@ -314,57 +314,17 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/167.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">KANZLER SINGLE SOSIS </p>
-                        <h4 class="card-title">Rp8,500</h4 >
+                    <img src="img/196.png" class="card-img-top" alt="Nugget">
+                   <div class="card-body">
+                        <p style="margin-bottom:5px">PFI OKEY SOSIS AYAM 1 KG </p>
+                        <h4 class="card-title">Rp42.500</h4 >
                     </div>
                 </div>
             </div>
         </div>
     </div>
     
-    <div class="container my-4">
-        <div class="row justify-content-center gx-4">
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/168.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">KANZLER BEEF COCTAIL 250GR </p>
-                        <h4 class="card-title">Rp27,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/169.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">KANZLER BEEF COCTAIL 500GR </p>
-                        <h4 class="card-title">Rp53,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/170.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">KANZLER SINGLE BASO </p>
-                        <h4 class="card-title">Rp8,500</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/171.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">ZONA SOSIS AYAM 15 </p>
-                        <h4 class="card-title">Rp8,500</h4 >
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+  
      <div class="container my-4">
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
@@ -416,15 +376,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/196.png" class="card-img-top" alt="Nugget">
-                   <div class="card-body">
-                        <p style="margin-bottom:5px">PFI OKEY SOSIS AYAM 1 KG </p>
-                        <h4 class="card-title">Rp42.500</h4 >
-                    </div>
-                </div>
-            </div>
+          
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>

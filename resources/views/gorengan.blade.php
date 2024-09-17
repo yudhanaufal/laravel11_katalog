@@ -27,9 +27,9 @@
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
                 </a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">RPA Frost</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Home</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Product</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">RPA Frost</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Home</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/">Product</a>
             </div>
         </nav>
     </div>
@@ -84,10 +84,10 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/85.png" class="card-img-top" alt="Nugget">
+                    <img src="img/197.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">ILM PANDA </p>
-                        <h4 class="card-title">Rp13,000</h4 >
+                        <p style="margin-bottom:5px">PAHA PANIR</p>
+                        <h4 class="card-title">Rp7,000</h4 >
                     </div>
                 </div>
             </div>
@@ -111,10 +111,10 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/88.png" class="card-img-top" alt="Nugget">
+                    <img src="img/198.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">ILM TELUR NAGA </p>
-                        <h4 class="card-title">Rp10,500</h4 >
+                        <p style="margin-bottom:5px">MAWAR JUMBO</p>
+                        <h4 class="card-title">Rp7,000</h4 >
                     </div>
                 </div>
             </div>
@@ -133,11 +133,10 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/90.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body" style="font-style: poppins">
-                        <p style="margin-bottom:5px">OTAK" MENTARI PEDAS  </p>
-                        <h4 class="card-title">Rp3,700</h4 >
-                       
+                    <img src="img/199.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">STIK AJAIB</p>
+                        <h4 class="card-title">Rp7,000</h4 >
                     </div>
                 </div>
             </div>
@@ -152,9 +151,9 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/92.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">CIRENG KOIN BERKAH  </p>
+                    <img src="img/98.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body" style="font-style: poppins">
+                        <p style="margin-bottom:5px">HI LOVE </p>
                         <h4 class="card-title">Rp7,000</h4 >
                     </div>
                 </div>
@@ -166,10 +165,10 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/93.png" class="card-img-top" alt="Nugget">
+                    <img src="img/97.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">DOA IBU KULIT PANGSIT </p>
-                        <h4 class="card-title">Rp3,000</h4 >
+                        <p style="margin-bottom:5px">HI TELOLET </p>
+                        <h4 class="card-title">Rp7,000</h4 >
                     </div>
                 </div>
             </div>
@@ -196,106 +195,6 @@
                     <img src="img/96.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
                         <p style="margin-bottom:5px">HI SOSIS MIE  </p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container my-4">
-        <div class="row justify-content-center gx-4">
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/97.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">HI TELOLET </p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/98.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body" style="font-style: poppins">
-                        <p style="margin-bottom:5px">HI LOVE </p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                       
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/99.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px"> HI SIOMAY IKAN  </p>
-                        <h4 class="card-title">Rp7,000</h4 >     
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/100.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px"> HI TOFU </p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <div class="container my-4">
-        <div class="row justify-content-center gx-4">
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/101.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px"> HI TAHU BAKSO  </p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/102.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">HI MARTABAK </p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/103.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">HI DIMSUM MIE </p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/197.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">PAHA PANIR</p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/198.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">MAWAR JUMBO</p>
-                        <h4 class="card-title">Rp7,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/199.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">STIK AJAIB</p>
                         <h4 class="card-title">Rp7,000</h4 >
                     </div>
                 </div>
