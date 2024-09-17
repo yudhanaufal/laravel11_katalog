@@ -27,9 +27,9 @@
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
                 </a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">RPA Frost</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">Home</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">Product</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">RPA Frost</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Home</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Product</a>
             </div>
         </nav>
     </div>
@@ -42,38 +42,38 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/131.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ANDALAN BAKSO 250GR</p>
+                        <h4 class="card-title">Rp10,000</h4 >
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/132.png" class="card-img-top" alt="Nugget">
                     <div class="card-body" style="font-style: poppins">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ANDALAN BAKSO 500GR </p>
+                        <h4 class="card-title">Rp18,000</h4 >
                        
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/133.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >     
+                        <p style="margin-bottom:5px">ANDALAN BAKSO JUMBO ISI 10 </p>
+                        <h4 class="card-title">Rp10,000</h4 >     
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/134.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ANDALAN TAHU BAKSO </p>
+                        <h4 class="card-title">Rp11,000 </h4 >
                     </div>
                 </div>
             </div>
@@ -84,40 +84,54 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/135.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">NIPAO BAKPAO COKLAT </p>
+                        <h4 class="card-title">Rp14,000</h4 >
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/136.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ENOKI MUSHROOM ASTRO 100GR</p>
+                        <h4 class="card-title">Rp4,000</h4 >
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/137.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">FF HOME SHOESTRING 1KG </p>
+                        <h4 class="card-title">Rp33,500</h4 >
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/138.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">FF HOME SHOESTRING 2KG </p>
+                        <h4 class="card-title">Rp63,000</h4 >
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/139.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">KARAWACI RAJA BASO BAKAR</p>
+                        <h4 class="card-title">Rp15,000</h4 >
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 

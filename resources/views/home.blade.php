@@ -27,75 +27,84 @@
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
                 </a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">RPA Frost</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">Home</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">Product</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">RPA Frost</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Home</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Product</a>
             </div>
         </nav>
     </div>
 
-    <div class="container my-4">
-        <div id="carouselExampleControls" class="carousel slide">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="img/nugget.jpeg" class="d-block w-100" alt="First slide">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/placeholder2.jpeg" class="d-block w-100" alt="Second slide">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/placeholder3.jpeg" class="d-block w-100" alt="Third slide">
-                </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
-        </div>
-    </div>
 
     <div class="container my-4">
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/nugget.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <h5 class="card-title">Nugget 1</h5>
-                        <a href="#" class="btn btn-primary">More Product</a>
+                        <h5 class="card-title">Nugget </h5>
+                        <a href="/nugget" class="btn btn-primary">More Product</a>
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/olahanikan.png" class="card-img-top" style="width: 80px height:80px" alt="Nugget">
                     <div class="card-body">
-                        <h5 class="card-title">Nugget 2</h5>
-                        <a href="#" class="btn btn-primary">More Product</a>
+                        <h5 class="card-title">Olahan Ikan</h5>
+                        <a href="/olahanikan" class="btn btn-primary">More Product</a>
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/sosis.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <h5 class="card-title">Nugget 3</h5>
-                        <a href="#" class="btn btn-primary">More Product</a>
+                        <h5 class="card-title">Sosis</h5>
+                        <a href="/sosis" class="btn btn-primary">More Product</a>
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/kebab_burger.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <h5 class="card-title">Nugget 4</h5>
-                        <a href="#" class="btn btn-primary">More Product</a>
+                        <h5 class="card-title">Kebab & Burger</h5>
+                        <a href="/kebab_burger" class="btn btn-primary">More Product</a>
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/dry.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h5 class="card-title">Dry </h5>
+                        <a href="/dry" class="btn btn-primary">More Product</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/gorengan.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h5 class="card-title">Gorengan</h5>
+                        <a href="/gorengan" class="btn btn-primary">More Product</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/lain_lain.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h5 class="card-title">Lain-lain</h5>
+                        <a href="/kentang" class="btn btn-primary">More Product</a>
+                    </div>
+                </div>
+            </div>
+           
         </div>
     </div>
 

@@ -27,9 +27,9 @@
                 <a class="navbar-brand" href="#">
                     <img src="img/logo.png" alt="" width="50" height="50" class="d-inline-block align-text-top">
                 </a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">RPA Frost</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">Home</a>
-                <a class="navbar-brand ms-2" style="font-size: 14px;" href="#">Product</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">RPA Frost</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Home</a>
+                <a class="navbar-brand ms-2" style="font-size: 14px;" href="/home">Product</a>
             </div>
         </nav>
     </div>
@@ -42,38 +42,38 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/81.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ILM TEMPURA LP </p>
+                        <h4 class="card-title">Rp12,500</h4 >
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/82.png" class="card-img-top" alt="Nugget">
                     <div class="card-body" style="font-style: poppins">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ILM TEMPURA BURGER </p>
+                        <h4 class="card-title">Rp13,000</h4 >
                        
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/83.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >     
+                        <p style="margin-bottom:5px">ILM BASO BINTANG 250 </p>
+                        <h4 class="card-title">Rp12,500</h4 >     
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/84.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px"> ILM SUKOI </p>
+                        <h4 class="card-title">Rp13,000</h4 >
                     </div>
                 </div>
             </div>
@@ -84,43 +84,224 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/85.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ILM PANDA </p>
+                        <h4 class="card-title">Rp13,000</h4 >
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/86.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ILM SCALLOP </p>
+                        <h4 class="card-title">Rp13,500</h4 >
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/87.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px"> ILM BASO TUNA </p>
+                        <h4 class="card-title">Rp11,000</h4 >
                     </div>
                 </div>
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/nugget.jpeg" class="card-img-top" alt="Nugget">
+                    <img src="img/88.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">akumo 500gr </p>
-                        <h4 class="card-title">Rp23.000</h4 >
+                        <p style="margin-bottom:5px">ILM TELUR NAGA </p>
+                        <h4 class="card-title">Rp10,500</h4 >
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/89.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">OTAK" MENTARI ORI </p>
+                        <h4 class="card-title">Rp3,500</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/90.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body" style="font-style: poppins">
+                        <p style="margin-bottom:5px">OTAK" MENTARI PEDAS  </p>
+                        <h4 class="card-title">Rp3,700</h4 >
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/91.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">CIRENG WAJABATH  </p>
+                        <h4 class="card-title">Rp7,000</h4 >     
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/92.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">CIRENG KOIN BERKAH  </p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/93.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">DOA IBU KULIT PANGSIT </p>
+                        <h4 class="card-title">Rp3,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/94.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px"> DOA IBU SOTONG </p>
+                        <h4 class="card-title">Rp3,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/95.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">HI ICE CREAM TUSUK </p>
+                        <h4 class="card-title">Rp3,500</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/96.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">HI SOSIS MIE  </p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/97.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">HI TELOLET </p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/98.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body" style="font-style: poppins">
+                        <p style="margin-bottom:5px">HI LOVE </p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/99.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px"> HI SIOMAY IKAN  </p>
+                        <h4 class="card-title">Rp7,000</h4 >     
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/100.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px"> HI TOFU </p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/101.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px"> HI TAHU BAKSO  </p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/102.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">HI MARTABAK </p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/103.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">HI DIMSUM MIE </p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/197.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">PAHA PANIR</p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/198.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">MAWAR JUMBO</p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/199.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">STIK AJAIB</p>
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>

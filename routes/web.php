@@ -28,3 +28,6 @@ Route::get('/sosis', function () {
 Route::get('/gorengan', function () {
     return view('gorengan');
 });
+Route::get('/dry', function () {
+    return view('dry');
+});
