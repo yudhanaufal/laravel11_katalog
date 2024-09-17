@@ -372,7 +372,7 @@
                     <img src="img/190.png" class="card-img-top" alt="Nugget">
                    <div class="card-body">
                         <p style="margin-bottom:5px">CHOP CHOP SOSIS SAPI 500GR </p>
-                        <h4 class="card-title">Rp-</h4 >
+                        <h4 class="card-title">Rp27.500</h4 >
                     </div>
                 </div>
             </div>
@@ -381,7 +381,7 @@
                     <img src="img/191.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
                         <p style="margin-bottom:5px">ZONA SOSIS MERAH 12 </p>
-                        <h4 class="card-title">Rp-</h4 >
+                        <h4 class="card-title">Rp24.000</h4 >
                     </div>
                 </div>
             </div>
@@ -390,7 +390,7 @@
                     <img src="img/192.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
                         <p style="margin-bottom:5px">PFI CHAMP SOSIS AYAM 15 </p>
-                        <h4 class="card-title">Rp-</h4 >
+                        <h4 class="card-title">Rp17.500</h4 >
                     </div>
                 </div>
             </div>
@@ -399,7 +399,7 @@
                     <img src="img/193.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
                         <p style="margin-bottom:5px">PFI CHAMP SOSIS SAPI 15 </p>
-                        <h4 class="card-title">Rp-</h4 >
+                        <h4 class="card-title">Rp34.000</h4 >
                     </div>
                 </div>
             </div>
@@ -412,7 +412,7 @@
                     <img src="img/195.png" class="card-img-top" alt="Nugget">
                    <div class="card-body">
                         <p style="margin-bottom:5px">PFI CHAMP SOSIS AYAM 3 </p>
-                        <h4 class="card-title">Rp-</h4 >
+                        <h4 class="card-title">Rp4.000</h4 >
                     </div>
                 </div>
             </div>
@@ -421,7 +421,7 @@
                     <img src="img/196.png" class="card-img-top" alt="Nugget">
                    <div class="card-body">
                         <p style="margin-bottom:5px">PFI OKEY SOSIS AYAM 1 KG </p>
-                        <h4 class="card-title">Rp-</h4 >
+                        <h4 class="card-title">Rp42.500</h4 >
                     </div>
                 </div>
             </div>

@@ -490,56 +490,15 @@
         </div>
     </div>
 
-    <div class="container my-4">
-        <div class="row justify-content-center gx-4">
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/43.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">ELLAFROZE BAKSO IKAN 500GR  </p>
-                        <h4 class="card-title">Rp15,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/44.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body" style="font-style: poppins">
-                        <p style="margin-bottom:5px"> ELLAFROZE TEMPURA 500GR  </p>
-                        <h4 class="card-title">Rp12,000</h4 >
-                       
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/45.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">ELLAFROZE OTAK-OTAK IKAN 500GR </p>
-                        <h4 class="card-title">Rp17,000</h4 >     
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/46.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">ELLAFROZE SCALLOP 500GR  </p>
-                        <h4 class="card-title">Rp17,000</h4 >
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     
     <div class="container my-4">
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/47.png" class="card-img-top" alt="Nugget">
+                    <img src="img/50.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">ELLAFROZE FISHROLL 500GR  </p>
-                        <h4 class="card-title">Rp18,000</h4 >
+                        <p style="margin-bottom:5px">ELLAFROZE OTAK-OTAK IKAN 200GR </p>
+                        <h4 class="card-title">Rp8,000</h4 >
                     </div>
                 </div>
             </div>
@@ -561,15 +520,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/50.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">ELLAFROZE OTAK-OTAK IKAN 200GR </p>
-                        <h4 class="card-title">Rp8,000</h4 >
-                    </div>
-                </div>
-            </div>
+           
         </div>
     </div>
 
@@ -577,7 +528,7 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/51.png" class="card-img-top" alt="Nugget">
+                    <img src="img/46.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
                         <p style="margin-bottom:5px">ELLAFROZE SCALLOP 200GR  </p>
                         <h4 class="card-title">Rp8,000</h4 >
