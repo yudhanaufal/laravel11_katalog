@@ -84,7 +84,7 @@
         <div class="row justify-content-center gx-4">
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/176.png" class="card-img-top" alt="Nugget">
+                    <img src="img/177.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
                         <p style="margin-bottom:5px">VITALIA BEEF BURGER 280GR </p>
                         <h4 class="card-title">Rp9,500</h4 >
@@ -93,7 +93,7 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/177.png" class="card-img-top" alt="Nugget">
+                    <img src="img/176.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
                         <p style="margin-bottom:5px">VITALIA BEEF BURGER SAPI BESAR 250GR </p>
                         <h4 class="card-title">Rp9,000</h4 >

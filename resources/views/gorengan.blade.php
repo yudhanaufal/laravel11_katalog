@@ -177,7 +177,7 @@
                     <img src="img/94.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
                         <p style="margin-bottom:5px"> DOA IBU SOTONG </p>
-                        <h4 class="card-title">Rp3,000</h4 >
+                        <h4 class="card-title">Rp3,500</h4 >
                     </div>
                 </div>
             </div>
