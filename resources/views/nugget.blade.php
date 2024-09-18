@@ -51,11 +51,10 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/105.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body" style="font-style: poppins">
-                        <p style="margin-bottom:5px">ABAH NAGET 250GR </p>
-                        <h4 class="card-title">Rp10,000 </h4 >
-                       
+                    <img src="img/194.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">PFI CHAMP NUGGET COIN 200GR</p>
+                        <h4 class="card-title">Rp15.500</h4 >
                     </div>
                 </div>
             </div>
@@ -70,10 +69,10 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/107.png" class="card-img-top" alt="Nugget">
+                    <img src="img/129.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">ABAH NAGET 500GR </p>
-                        <h4 class="card-title">Rp18,000</h4 >
+                        <p style="margin-bottom:5px">RICHEESE NAGET CRUNCHCY 250GR</p>
+                        <h4 class="card-title">Rp22,000</h4 >
                     </div>
                 </div>
             </div>
@@ -235,10 +234,10 @@
             </div>
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
-                    <img src="img/123.png" class="card-img-top" alt="Nugget">
+                    <img src="img/128.png" class="card-img-top" alt="Nugget">
                     <div class="card-body">
-                        <p style="margin-bottom:5px">KANZLER CRISPY CHICKEN NUGGET MINI </p>
-                        <h4 class="card-title">Rp14,000</h4 >
+                        <p style="margin-bottom:5px">RICHEESE NAGET CRUNCHCY 500GR </p>
+                        <h4 class="card-title">Rp42,000</h4 >
                     </div>
                 </div>
             </div>
@@ -246,25 +245,7 @@
     </div>
     
     <div class="container my-4">
-        <div class="row justify-content-center gx-4">
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/124.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">KANZLER CRISPY CHICKEN NUGGET </p>
-                        <h4 class="card-title">Rp42,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/125.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">KANZLER ORIGINAL PREMIUM CHICKEN NUGGET </p>
-                        <h4 class="card-title">Rp41,000</h4 >
-                    </div>
-                </div>
-            </div>
+        <div class="row justify-content-center gx-4"> 
             <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
                 <div class="card custom-card">
                     <img src="img/126.png" class="card-img-top" alt="Nugget">
@@ -285,46 +266,7 @@
             </div>
         </div>
     </div>
-    <div class="container my-4">
-        <div class="row justify-content-center gx-4">
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/128.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">RICHEESE NAGET CRUNCHCY 500GR </p>
-                        <h4 class="card-title">Rp42,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/129.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">RICHEESE NAGET CRUNCHCY 250GR</p>
-                        <h4 class="card-title">Rp22,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/130.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">RICHEESE NAGET KLASIK 250GR </p>
-                        <h4 class="card-title">Rp22,000</h4 >
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
-                <div class="card custom-card">
-                    <img src="img/194.png" class="card-img-top" alt="Nugget">
-                    <div class="card-body">
-                        <p style="margin-bottom:5px">PFI CHAMP NUGGET COIN 200GR</p>
-                        <h4 class="card-title">Rp15.500</h4 >
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>

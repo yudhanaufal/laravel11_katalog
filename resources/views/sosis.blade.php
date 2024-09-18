@@ -376,7 +376,15 @@
                     </div>
                 </div>
             </div>
-          
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/223.png" class="card-img-top" alt="Nugget">
+                   <div class="card-body">
+                        <p style="margin-bottom:5px">SOSIS VIGO 500GR 12 </p>
+                        <h4 class="card-title">Rp25.000</h4 >
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>

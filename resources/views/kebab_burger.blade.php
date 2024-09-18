@@ -121,6 +121,39 @@
         </div>
     </div>
 
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/227.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">TORTILA 24 </p>
+                        <h4 class="card-title">Rp29,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/229.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">TORTILA22 </p>
+                        <h4 class="card-title">Rp27,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/228.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">TORTILA 20</p>
+                        <h4 class="card-title">Rp25,000</h4 >
+                    </div>
+                </div>
+            </div>
+    
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 </body>

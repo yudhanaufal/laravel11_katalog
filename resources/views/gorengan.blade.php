@@ -201,7 +201,186 @@
             </div>
         </div>
     </div>
-
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/200.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/201.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/202.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">RRp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/203.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/204.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/205.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/206.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">RRp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/207.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/208.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/209.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/210.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">RRp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/211.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/212.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/213.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/214.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">RRp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/215.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/216.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/217.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/218.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">RRp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/219.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <h4 class="card-title">Rp7,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 </body>

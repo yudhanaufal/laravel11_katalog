@@ -35,7 +35,7 @@
     </div>
     <div class="conatiner my-4 ">
         <div class="justify-content-center d-flex">
-            <h1> Kentang </h1>
+            <h1> Lain-lain </h1>
         </div>
     </div>
     <div class="container my-4">
@@ -109,9 +109,73 @@
                     </div>
                 </div>
             </div>
-           
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/220.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">JAMUR ENOKI </p>
+                        <h4 class="card-title">Rp4.000</h4 >
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/222.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">TUSUK SATE </p>
+                        <h4 class="card-title">Rp5,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/224.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">TUSUK SATE </p>
+                        <h4 class="card-title">Rp8,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/225.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">TUSUK SATE </p>
+                        <h4 class="card-title">Rp8,000</h4 >
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/226.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">TUSUK SATE </p>
+                        <h4 class="card-title">Rp8,000</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container my-4">
+        <div class="row justify-content-center gx-4">
+            
+            <div class="col-6 col-lg-3 d-flex justify-content-center mb-4">
+                <div class="card custom-card">
+                    <img src="img/221.png" class="card-img-top" alt="Nugget">
+                    <div class="card-body">
+                        <p style="margin-bottom:5px">POP ICE</p>
+                        <h4 class="card-title">Rp12.500</h4 >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
  
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
